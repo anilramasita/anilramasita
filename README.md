@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Immadisetti Anil Kumar!  
+# Hi, I’m Immadisetti Anil Kumar!  
 🚀 **CSE AIML Student | Web Developer | DSA Enthusiast | AWS Learner**  
 
 ## 👀 Interests  
